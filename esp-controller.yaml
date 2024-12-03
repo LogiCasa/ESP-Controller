@@ -1,5 +1,5 @@
 substitutions:
-  device_name: logicasa-
+  device_name: logicasa
   friendly_name: LogiCasa Controller
   prefix: esp
     
