@@ -8,7 +8,7 @@ esphome:
   friendly_name: ${friendly_name}
   name_add_mac_suffix: true
   project:
-    name: logicasa.esphomecontroller
+    name: logicasa.esp-controller
     version: "1.0"
   on_boot:
     priority: 600
@@ -26,7 +26,7 @@ esp32:
 
 # This should point to the public location of this yaml file.
 dashboard_import:
-  package_import_url: github://LogiCasa/ESPHomeController/ESPHomeController.yaml@main
+  package_import_url: github://LogiCasa/ESP-Controller/esp-controller.yaml@main
   import_full_config: true # or true
 
 ethernet:
