@@ -8,6 +8,9 @@ esphome:
   name: ${device_name}
   friendly_name: ${friendly_name}
   name_add_mac_suffix: true
+  project:
+  name: logicasa.esphomecontroller
+  version: "2.0"
   on_boot:
     priority: 600
     then:
