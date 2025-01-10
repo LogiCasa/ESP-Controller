@@ -1,5 +1,3 @@
-# Logi.Casa ESP Home Controller
-
 Logi.Casa offers affordable SmartHome devices designed to work with Home Assistant.
 
 # Installation
