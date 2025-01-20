@@ -14,7 +14,8 @@ jobs:
     with:
       #### Modify below here to match your project ####
       files: |
-        esp-controller.yaml        
+        esp-controller.yaml
+        wifi-esp-controller.yaml
       esphome-version: 2024.11.0
       #### Modify above here to match your project ####
 
