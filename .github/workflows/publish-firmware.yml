@@ -14,9 +14,10 @@ jobs:
     with:
       #### Modify below here to match your project ####
       files: |
-        esp-controller.yaml
-        wifi-esp-controller.yaml
+        logicasa-controller.yaml
+        logicasa-controller-wifi.yaml
       esphome-version: 2024.11.0
+      combined-name: logicasa-controller
       #### Modify above here to match your project ####
 
       release-summary: ${{ github.event.release.body }}
