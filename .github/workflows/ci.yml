@@ -20,8 +20,8 @@ jobs:
       matrix:
         #### Modify below here to match your project ####
         file:
-          - logicasa-controller.yaml
-          - logicasa-controller-wifi.yaml
+          - logicasa-controller
+          - logicasa-controller-wifi
         #### Modify above here to match your project ####
 
         esphome-version:
