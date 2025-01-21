@@ -15,7 +15,6 @@ jobs:
       #### Modify below here to match your project ####
       files: |
         logicasa-controller.yaml
-        logicasa-controller-wifi.yaml
       esphome-version: 2024.12.4
       #### Modify above here to match your project ####
 
