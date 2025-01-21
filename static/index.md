@@ -8,7 +8,7 @@ Put the DIP switch on the mainboard into FLASH mode before uploading the code.
 
 Click on the button below to upload the factory firmware to your device.
 
-<esp-web-install-button manifest="firmware/logicasa.manifest.json"></esp-web-install-button>
+<esp-web-install-button manifest="firmware/project-template.manifest.json"></esp-web-install-button>
 <script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
 
 Don't forget to reset the DIP switch in order to enable the device to boot.
