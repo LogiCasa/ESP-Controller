@@ -21,7 +21,6 @@ jobs:
         #### Modify below here to match your project ####
         file:
           - logicasa-controller
-          - logicasa-controller-wifi
         #### Modify above here to match your project ####
 
         esphome-version:
